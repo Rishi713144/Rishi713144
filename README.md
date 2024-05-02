@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi713144&label=Profile%20views&color=0e75b6&style=flat" alt="rishi713144" /> </p>
 
+![](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black) ![](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=blue)
 - 📫 How to reach me **konarsoumitra05@gmail.com**
 
 <img align="right" alt="developer" width="350" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">

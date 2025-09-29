@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <img src="name.svg" />
-  <img align="right" src="1.gif" width=12% >
+  <img align="right" src="1.gif" width=8% >
  
 </h1>
 

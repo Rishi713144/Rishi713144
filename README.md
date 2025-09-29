@@ -1,12 +1,13 @@
 ![logo](https://github.com/Rishi713144/Rishi713144/blob/main/Banner.jpg)
- <img align="right" src="1.gif" width=12% >
+ 
 
 <h1 align="center">
   <img src="name.svg" />
+  <img align="right" src="1.gif" width=12% >
  
 </h1>
 
-<p align"center"> <img width="200" align="center" src="Lionel Messi Football GIF by FC Barcelona.gif">  <img align="right" alt="developer" width=35% src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">  </p> 
+<p align"center"> <img width="200" align="center" src="Lionel Messi Football GIF by FC Barcelona.gif"> <img align="Center" src="2.gif" width=12%> <img align="right" alt="developer" width=35% src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">  </p> 
 
 
 ```javascript

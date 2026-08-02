@@ -38,23 +38,28 @@
 
 ```javascript
 class Me {
-  constructor(){
-    this.name = 'Rishi ';
-    this.age = 19;
-    this.pronouns = 'he/him';
-    this.stack = {
-      Python: ['Flask', 'PySimpleGUI', 'Web Scraping', 'Automation'],
-      JavaScript: ['ReactJS', 'ExpressJS'],
-      CSS: ['Vanilla', 'Tailwind', 'Bootstrap'],
-      Java: ['Basics'],
-      DBs: ['MongoDB']
-    };
-    this.uses = [
-      'Linux Lite',
-      'Zorin OS',
-      'VSCode',
-      'Brave'
-    ];
+  constructor() {
+    Object.assign(this, {
+      name: "Soumitra Konar",
+      pronouns: "he/him",
+
+      focus: [
+        "Full-Stack Development",
+        "Web3",
+        "Open Source"
+      ],
+
+      techStack: {
+        languages: ["JavaScript", "TypeScript", "Python", "C/C++"],
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js"],
+        databases: ["PostgreSQL", "MongoDB", "Prisma"],
+        blockchain: ["Solidity", "Ethereum", "Ethers.js"],
+        infrastructure: ["Docker", "Linux", "WSL"],
+        cloud: ["Supabase", "Vercel", "Render"],
+        tooling: ["Git", "TurboRepo", "Kafka", "Redis"]
+      }
+    });
   }
 }
 

@@ -61,9 +61,9 @@
   <a href="https://soliditylang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40"/>
   </a>
-  <a href="https://ethereum.org/" target="_blank">
+  <!-- <a href="https://ethereum.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="40"/>
-  </a>
+  </a> -->
 
   <!-- DevOps -->
   <a href="https://www.docker.com/" target="_blank">
